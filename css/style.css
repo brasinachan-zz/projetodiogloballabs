@@ -1,0 +1,41 @@
+body{
+    font: 15px arial;
+}
+
+.navbar {
+    background-color: rgb(175, 226, 35);
+}
+
+.quem-somos{
+    background-color: rgb(203, 243, 166);
+    color: rgb(59, 57, 57);
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.parceiros{
+    background-color: rgb(94, 136, 74);
+    color: white;
+}
+
+.servicos{
+    background-color: rgb(233, 238, 230);
+}
+
+.bg-footer{
+    background-color: black;
+    color:white;
+}
+
+.description{
+    padding-top: 10px;
+    font: 15px arial;
+}
+
+/*para destacar o nome da desenvolvedora*/
+footer p:hover{
+    color:pink;
+}
